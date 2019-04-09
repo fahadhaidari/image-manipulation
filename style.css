@@ -1,0 +1,18 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+#help {
+  position: fixed;
+  text-align: center;
+  user-select: none;
+  color: #DDDDDD;
+  font-size: 12px;
+  bottom: 3%;
+  left: 3%;
+}
